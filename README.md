@@ -1,2 +1,1 @@
-# Swizy-tindog
-Completely responsive page
+TinDog Starting Files
